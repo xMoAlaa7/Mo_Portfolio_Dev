@@ -7,7 +7,7 @@
 
 ## SD-WAN Device Initial Configuration Generator
 <p align="center">
-  <img src="images/05-04-52-PowerPoint Slide Show  -  Presentation1.png" width="480" height="270">
+  <img src="images/SD-WAN Device Initial Configuration Generator.png" width="480" height="270">
 </p>
 
 ### Project Description:
