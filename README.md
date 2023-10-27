@@ -1,4 +1,4 @@
-# Welcome to Mohamed Alaa's Portfolio!
+# <p style="text-align: center;">Welcome to Mohamed Alaa's Portfolio!</p>
 <font size="4"> This simple portfolio serves as an introduction to myself and as a preview of some of the projects I've done throughout my learning journey. </font>
 
 ## About Me:
