@@ -7,7 +7,7 @@
 
 ## SD-WAN Device Initial Configuration Generator:
 <p align="center">
-  <img src="images/SD-WAN Device Initial Configuration Generator.png" width="480" height="270">
+  <img src="images/SD-WAN Device Initial Configuration Generator.png" width="480" height="auto">
 </p>
 
 ### Project Description:
@@ -19,7 +19,7 @@ For more, click [here](https://xmoalaa7.github.io/SD-WAN-Initial-Configuration-G
 
 ## SD-WAN Prototype Network:
 <p align="center">
-  <img src="images/SD-WAN Network Topology (Horizontal).png" width="700" height="300">
+  <img src="images/SD-WAN Network Topology (Horizontal).png" width="700" height="auto">
 </p>
 
 ### Project Description:
