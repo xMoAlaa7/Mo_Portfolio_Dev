@@ -5,7 +5,7 @@
 
 # Projects:
 
-## SD-WAN Device Initial Configuration Generator
+## SD-WAN Device Initial Configuration Generator:
 <p align="center">
   <img src="images/SD-WAN Device Initial Configuration Generator.png" width="480" height="270">
 </p>
@@ -16,3 +16,13 @@ The SD-WAN Device Initial Configuration Generator is a Python application that c
 The application works by taking in multiple required and optional arguments from the user which it then uses to create an altered version of one of the input text files (depending on the device type argument specified). The altered version is saved as “output.txt” and rewritten every time the code is executed.
 
 For more, click [here](https://xmoalaa7.github.io/SD-WAN-Initial-Configuration-Generator/).
+
+## SD-WAN Prototype Network:
+<p align="center">
+  <img src="images/SD-WAN Network Topology (Horizontal).png" width="700" height="300">
+</p>
+
+### Project Description:
+insert description here
+
+For more, click [here](https://xmoalaa7.github.io/SD-WAN-Prototype-Network/).
