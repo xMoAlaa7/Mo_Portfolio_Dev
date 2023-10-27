@@ -7,7 +7,7 @@
 
 ## [SD-WAN Device Initial Configuration Generator](https://xmoalaa7.github.io/SD-WAN-Initial-Configuration-Generator/)
 <p align="center">
-  <img src=https://github.com/xMoAlaa7/Mo_Portfolio/blob/b43e34c116fb43a74533e82879fafac94b230786/images/05-04-52-PowerPoint%20Slide%20Show%20%20-%20%20Presentation1.png width="480" height="270">
+  <img src="images/05-04-52-PowerPoint Slide Show  -  Presentation1.png" width="480" height="270">
 </p>
 
 #### Project Description:
