@@ -1,18 +1,13 @@
 <p style="text-align: center;">
 <font size="6">
 <b>
-  Welcome to Mohamed Alaa's Portfolio!
+  Welcome to Mohamed Alaa's Projects' Portfolio!
 </b>
 </font>
 </p>
 
 <font size="4">
-  This simple portfolio serves as an introduction to myself and as a preview of some of the projects I've done throughout my learning journey.
-</font>
-
-# About Me:
-<font size="3">
-Add Text Here
+  This simple portfolio serves as a preview of some of the projects I've done throughout my learning journey.
 </font>
 
 # Projects:
