@@ -35,6 +35,7 @@ For more, click [here](https://xmoalaa7.github.io/SD-WAN-Initial-Configuration-G
 </p>
 
 ### Project Description:
-insert description here
+A prototype infrastructure consisting of two sites (Data Center and Service) that are connected over the actual Internet via Cisco’s SD-WAN Architecture.
+The infrastructure incorporates Cisco’s Three Layer Hierarchical Model over its private network on both sites and the Datacenter site includes a Windows Server that provides Services and Administration. Each site includes a FortiGate Firewall and has its WAN Edge Router equipped with an IPS.
 
 For more, click [here](https://xmoalaa7.github.io/SD-WAN-Prototype-Network/).
