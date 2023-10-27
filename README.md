@@ -1,4 +1,5 @@
 <body style="background-color:powderblue;">
+</body>
 <p style="text-align: center;"><font size="6"><b>Welcome to Mohamed Alaa's Portfolio!</b></font></p>
 <font size="4"> This simple portfolio serves as an introduction to myself and as a preview of some of the projects I've done throughout my learning journey. </font>
 
@@ -17,4 +18,3 @@ The SD-WAN Device Initial Configuration Generator is a Python application that c
 The application works by taking in multiple required and optional arguments from the user which it then uses to create an altered version of one of the input text files (depending on the device type argument specified). The altered version is saved as “output.txt” and rewritten every time the code is executed.
 
 For more, click [here](https://xmoalaa7.github.io/SD-WAN-Initial-Configuration-Generator/).
-</body>
