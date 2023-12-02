@@ -36,4 +36,4 @@ The infrastructure incorporates Cisco’s Three Layer Hierarchical Model over it
 For more, click [here](https://xmoalaa7.github.io/SD-WAN-Prototype-Network/).
 
 # Resume:
-To view my resume, click [here](https://drive.google.com/file/d/132XvUu89bEqM_gJfJ-fvsWZqjfb2rj25/view?usp=sharing).
+[View my Resume](https://drive.google.com/file/d/132XvUu89bEqM_gJfJ-fvsWZqjfb2rj25/view?usp=sharing).
