@@ -34,3 +34,6 @@ A prototype infrastructure consisting of two sites (Data Center and Service) tha
 The infrastructure incorporates Cisco’s Three Layer Hierarchical Model over its private network on both sites and the Datacenter site includes a Windows Server that provides Services and Administration. Each site includes a FortiGate Firewall and has its WAN Edge Router equipped with an IPS.
 
 For more, click [here](https://xmoalaa7.github.io/SD-WAN-Prototype-Network/).
+
+# Resume:
+To view my resume, click [here](https://drive.google.com/file/d/132XvUu89bEqM_gJfJ-fvsWZqjfb2rj25/view?usp=sharing).
