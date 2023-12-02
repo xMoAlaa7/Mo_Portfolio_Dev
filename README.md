@@ -10,6 +10,10 @@
   This simple portfolio serves as a preview of some of the projects I've done throughout my learning journey.
 </font>
 
+# About Me:
+
+Hi! I'm Mohamed, a fresh Communications and Electronics Engineer graduate with skills in Network/Systems administration and Cloud Architecting using AWS.
+
 # Projects:
 
 ## SD-WAN Device Initial Configuration Generator:
